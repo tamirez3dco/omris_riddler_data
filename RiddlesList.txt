@@ -1,4 +1,7 @@
 ﻿[
+{"filename":"moshe_bateiva","english_chars":"NAV C<HCV","havaras":[[0,0],[1,2]],"riddle_types":[1,2,3,5,6]},
+{"filename":"bat_paro","english_chars":"C< PRGV","havaras":[[0,0],[1,2]],"riddle_types":[1,2,3,5,6]},
+{"filename":"ksilofon","english_chars":"EXHKUPUI","havaras":[[0,0],[1,2]],"riddle_types":[1,2,3,5,6]},
 {"filename":"gamal","english_chars":"DNK","havaras":[[0,0],[1,2]],"riddle_types":[1,2,3,5,6]},
 {"filename":"naal","english_chars":"BGK","havaras":[[0,0],[1,2]],"riddle_types":[1,2,3,5,6]},
 {"filename":"hitul","english_chars":"JH<UK","havaras":[[0,1],[2,4]],"riddle_types":[1,2,3,5,6]},

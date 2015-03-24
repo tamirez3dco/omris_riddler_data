@@ -1,4 +1,5 @@
 ﻿[
+{value:32,english_char:" ",filename:"revach",unicode:"\u0020",duration:1000},
 {value:84,english_char:"T",filename:"aleph",unicode:"\u05D0",duration:1000},
 {value:67,english_char:"C",filename:"bet",unicode:"\u05D1",duration:1000},
 {value:68,english_char:"D",filename:"gimmel",unicode:"\u05D2",duration:1000},
